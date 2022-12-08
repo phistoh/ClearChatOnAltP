@@ -1,0 +1,7 @@
+## Interface: 100002
+## Title: ClearChatOnAltP
+## Author: phistoh
+## Version: 1.0.0
+## Notes: Circumvents the Ctrl-P hotkey (for repeating the last message) when the user additionally presses Shift. This enables the user to write Ö/ö via Ctrl-Alt-Shift-P or Ctrl-Alt-P when using US international keyboard layout
+
+ClearChatOnAltP.lua
