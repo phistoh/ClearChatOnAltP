@@ -9,4 +9,5 @@ This addon does its work automatically.
 - **ClearChatOnAltP.toc** is the standard WoW table-of-contents file containing addon information
 
 ## Changes
+- **1.0.1**: Bug fix
 - **1.0**: Initial upload
